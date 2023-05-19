@@ -1,3 +1,17 @@
+Overview: A demo of Food-Order web app where the customers can order food. This demo website is made with React.js.
+Technology: JavaScript, React.js, Html, Css.
+React.js concepts covered in this project-
+1. useState
+2. useContext
+3. useRef
+4. useReducer
+5. Events
+6. Props
+7. map
+8 Modal
+9. Reusable Components
+
+***You are free to use the resources from this repository***
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
